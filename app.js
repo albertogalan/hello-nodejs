@@ -13,4 +13,5 @@ app.listen(PORT, function () {
 });
 
 
+console.log(`This is a hotfix`);
 module.exports = app;
